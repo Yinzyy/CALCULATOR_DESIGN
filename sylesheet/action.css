@@ -1,0 +1,52 @@
+#sol{
+    width: 0px;
+    height: 150px;
+    background-color: rgb(235, 238, 252);
+    border-radius: 30px;
+}
+td{
+    text-align:center;
+    font-weight: 900px;
+    font-size: 10px;
+}
+.operator {
+    border: 0px;
+    border-radius: 100px;
+    width: 60px;
+    height: 50px;
+    background-color: rgb(165, 238, 238);
+}
+body{
+    background-color: rgb(32, 46, 41);
+}
+#table{
+    background-color: white;
+    border-radius: 30px;
+    width: 0px;
+    height:550px;
+    align-self: center;
+   
+}
+.btn-num{
+    background-color: aliceblue;
+    border: 0px;
+    border-radius: 30px;
+    width: 60px;
+    height: 50px;
+
+}
+.symbol{
+    border: 0px;
+    border-radius: 0px;
+    width: 70px;
+    height: 60px;
+    padding: 0px;
+    font-size: 20px;
+}
+#clear{
+    background-color: aquamarine;
+}
+#full-stop{
+    font-size: 30px;
+    text-align: center;
+}
